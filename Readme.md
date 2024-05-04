@@ -1,16 +1,6 @@
-Understanding Subscription
+# Understanding Subscription behavior using logistic regression
 
-Behaviour
 
-Pratik Amol Halurkar
-
-Module 3 assignment
-
-ALY6020: Predictive Analytics (CRN: 20356)
-
-Prof. Justin Grosz
-
-3/10/2024
 
 # Introduction
 
